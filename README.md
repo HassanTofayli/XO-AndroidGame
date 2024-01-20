@@ -1,13 +1,6 @@
 # XO-AndroidGame
 Just-for-fun android game made with android studio
 
-Creating an effective README file for your GitHub repository is essential, as it serves as the first point of contact for anyone who encounters your project. Given that you've developed an XO (Tic-Tac-Toe) game for Android, your README should be concise, informative, and visually appealing. Here's a structured template you can use, with placeholders for you to fill in specific details about your game:
-
----
-
-# XO Game for Android
-
-## Introduction
 **XO Game** is a mobile version of the classic Tic-Tac-Toe game, developed for Android devices. This project aims to provide a fun and interactive gaming experience with a user-friendly interface. 
 
 ### Idea
